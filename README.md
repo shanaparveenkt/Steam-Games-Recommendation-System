@@ -70,11 +70,11 @@ The system analyzes game-related text data and suggests games that are most simi
 ## ▶️ How to Run the Project
 
 ### Step 1: Clone the repository
-Step 2: Install Required Libraries
+### Step 2: Install Required Libraries
 pip install numpy pandas scikit-learn
-Step 3: Run the Project
+### Step 3: Run the Project
 python game_recommendation.py
-Step 4: Enter Your Favorite Game Name
+### Step 4: Enter Your Favorite Game Name
 When prompted, enter a game name from the dataset to get similar game recommendations.
 
 ## 📈 Sample Output
